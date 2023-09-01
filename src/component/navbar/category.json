@@ -1,0 +1,9 @@
+[
+  { "category": "business", "name": "Business" },
+  { "category": "entertainment", "name": "Entertainment" },
+  { "category": "general", "name": "General" },
+  { "category": "health", "name": "Health" },
+  { "category": "science", "name": "Science" },
+  { "category": "sports", "name": "Sports" },
+  { "category": "technology", "name": "Technology" }
+]
